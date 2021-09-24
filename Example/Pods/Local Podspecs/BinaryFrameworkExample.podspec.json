@@ -1,0 +1,22 @@
+{
+  "name": "BinaryFrameworkExample",
+  "version": "0.1.0",
+  "summary": "A short description of BinaryFrameworkExample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Chittapon Thongchim/BinaryFrameworkExample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chittapon Thongchim": "chittapon@central.tech"
+  },
+  "source": {
+    "git": "https://github.com/Chittapon Thongchim/BinaryFrameworkExample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BinaryFrameworkExample/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - BinaryFrameworkExample (0.1.0)
+
+DEPENDENCIES:
+  - BinaryFrameworkExample (from `../`)
+
+EXTERNAL SOURCES:
+  BinaryFrameworkExample:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BinaryFrameworkExample: db553fc61384acf01c077480ac79faec7daea1aa
+
+PODFILE CHECKSUM: 97a9e9e9644c8584af7ddc076121caa2d5eb25f1
+
+COCOAPODS: 1.11.2

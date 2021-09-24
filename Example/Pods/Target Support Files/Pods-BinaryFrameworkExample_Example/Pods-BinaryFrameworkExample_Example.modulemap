@@ -1,0 +1,6 @@
+framework module Pods_BinaryFrameworkExample_Example {
+  umbrella header "Pods-BinaryFrameworkExample_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
