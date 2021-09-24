@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BinaryFrameworkExample: db553fc61384acf01c077480ac79faec7daea1aa
+  BinaryFrameworkExample: c0620c5772a0ebf8078b94abf962281e7a2ebfb4
 
-PODFILE CHECKSUM: 97a9e9e9644c8584af7ddc076121caa2d5eb25f1
+PODFILE CHECKSUM: d01a3dc19836efbbfd41ecba1b4bacc844b95c4d
 
 COCOAPODS: 1.11.2
