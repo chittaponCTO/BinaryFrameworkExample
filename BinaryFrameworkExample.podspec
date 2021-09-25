@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.source = {
-    :http => 'https://doc-0k-6k-docs.googleusercontent.com/docs/securesc/1iqpoujhfdvjk8s3s1v1ng7mem2kml6v/0dv8n46pbi3oq5usgr4mgi0jdtlj2m99/1632476475000/05211904382465334682/05211904382465334682/1JJ_3sf9BL2H6z-OQNb61Yk7Wukf3HsIT?e=download&authuser=0&nonce=rr1b11md1ba08&user=05211904382465334682&hash=g6i1hjjcjtnpgpghe4oce3opetgrjeob'
+    :http => 'http://127.0.0.1:8000/BinaryFrameworkExample.framework.zip'
   }
   s.vendored_frameworks = 'BinaryFrameworkExample.framework'
   
