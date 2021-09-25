@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.source = {
-    :http => 'http://127.0.0.1:8000/BinaryFrameworkExample.framework.zip'
+    :http => 'https://github.com/chittaponCTO/BinaryFrameworkExample/raw/main/BinaryFrameworkExample.framework.zip'
   }
   s.vendored_frameworks = 'BinaryFrameworkExample.framework'
   
