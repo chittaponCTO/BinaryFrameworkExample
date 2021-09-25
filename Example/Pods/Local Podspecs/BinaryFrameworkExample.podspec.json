@@ -12,7 +12,7 @@
     "Chittapon Thongchim": "chittapon@central.tech"
   },
   "source": {
-    "http": "http://127.0.0.1:8000/BinaryFrameworkExample.framework.zip"
+    "http": "https://github.com/chittaponCTO/BinaryFrameworkExample/raw/main/BinaryFrameworkExample.framework.zip"
   },
   "vendored_frameworks": "BinaryFrameworkExample.framework",
   "platforms": {

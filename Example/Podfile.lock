@@ -2,15 +2,20 @@ PODS:
   - BinaryFrameworkExample (0.1.0)
 
 DEPENDENCIES:
-  - BinaryFrameworkExample (from `../`)
+  - "BinaryFrameworkExample (from `git@github.com:chittaponCTO/BinaryFrameworkExample.git`)"
 
 EXTERNAL SOURCES:
   BinaryFrameworkExample:
-    :path: "../"
+    :git: "git@github.com:chittaponCTO/BinaryFrameworkExample.git"
+
+CHECKOUT OPTIONS:
+  BinaryFrameworkExample:
+    :commit: e50b23035cf159888ad47929b1d3a08a8b3d54bb
+    :git: "git@github.com:chittaponCTO/BinaryFrameworkExample.git"
 
 SPEC CHECKSUMS:
-  BinaryFrameworkExample: 9894403931562f5032f7e65cc295124afe48ef9a
+  BinaryFrameworkExample: ff5dbed6c08f147f03364e5e6c33bdc8dfa1127a
 
-PODFILE CHECKSUM: 1f41b28d8c896d9b0690ad31a60af6bd536b9180
+PODFILE CHECKSUM: bec06c911e36bfca9ed9d8d92b40dacd46219ef2
 
 COCOAPODS: 1.11.2
