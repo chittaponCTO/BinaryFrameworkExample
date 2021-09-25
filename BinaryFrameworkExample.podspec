@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BinaryFrameworkExample'
-  s.version          = '0.1.1'
-  s.summary          = 'A short description of BinaryFrameworkExample.'
+  s.version          = '0.1.2'
+  s.summary          = 'POC Binary framework.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'POC Binary framework to improve build time'
 
   s.homepage         = 'https://github.com/Chittapon Thongchim/BinaryFrameworkExample'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -33,7 +31,7 @@ TODO: Add long description of the pod here.
   }
   s.vendored_frameworks = 'BinaryFrameworkExample.framework'
   
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '11.0'
   
   # s.resource_bundles = {
   #   'BinaryFrameworkExample' => ['BinaryFrameworkExample/Assets/*.png']
